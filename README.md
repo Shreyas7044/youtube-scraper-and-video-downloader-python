@@ -74,7 +74,7 @@ https://youtu.be/Ipsfz2QHS8s?si=CeYvreOfotHLoh6L
 ---
 
 ## 📸 Output of our code
-![Application Screenshot](Python-3d-video-matplotlib/screenshot.png)
+![Application Screenshot](youtube-scraper-and-video-downloader-python/screenshot.png)
 
 ---
 
