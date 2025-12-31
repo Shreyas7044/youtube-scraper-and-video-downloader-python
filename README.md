@@ -1,6 +1,3 @@
-# youtube-scraper-and-video-downloader-python
-Scraping YouTube with Python using the pytube library to extract video details like title, views, duration, description, and rating. This project also allows downloading YouTube videos in the highest resolution using Python. Simple, reusable, and beginner-friendly YouTube automation project.
-
 # Scraping YouTube with Python & Downloading Videos
 
 This project demonstrates how to scrape YouTube video details using Python and download YouTube videos in the highest resolution using the **pytube** library. Web scraping helps extract useful data and this project shows how Python can interact with YouTube easily.
