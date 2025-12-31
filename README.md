@@ -88,8 +88,3 @@ https://youtu.be/Ipsfz2QHS8s?si=CeYvreOfotHLoh6L
 
 ## 🤝 Contribution
 Feel free to fork, enhance and submit pull requests.
-
----
-
-## 🙋 Support
-If you like this project, give it a ⭐ on GitHub!
